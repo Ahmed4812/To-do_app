@@ -1,6 +1,15 @@
-li {
-    color:green;
+div {
     
+    width:100%;
+    font-size:40px;
+}
+
+.table{
+    margin: 40 20 40 20;
+    backface-color: red;
+}
+.span1{
+    background-color:red;
 }
 
 .mybutton {
@@ -8,11 +17,18 @@ li {
     border: none;
     color: white;
     padding: 15px 32px;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    float:left;
 }
-span{
-    background-color:red; 
+
+.addtop{
+    width:cover;
+    background-color:red;
+}
+
+.left{
+    float:left;
 }
